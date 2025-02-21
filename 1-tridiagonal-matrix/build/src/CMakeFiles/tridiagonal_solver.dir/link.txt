@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtridiagonal_solver.a CMakeFiles/tridiagonal_solver.dir/tridiagonal_solver.cpp.o
+/usr/bin/ranlib libtridiagonal_solver.a

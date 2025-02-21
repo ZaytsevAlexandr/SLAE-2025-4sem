@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TridiagonalSolver.dir/main.cpp.o -o TridiagonalSolver  src/libtridiagonal_solver.a 
