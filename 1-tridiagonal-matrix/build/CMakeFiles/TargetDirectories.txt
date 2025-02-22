@@ -1,9 +1,0 @@
-/home/aobaks/SLAE/1-tridiagonal-matrix/build/CMakeFiles/TridiagonalSolver.dir
-/home/aobaks/SLAE/1-tridiagonal-matrix/build/CMakeFiles/edit_cache.dir
-/home/aobaks/SLAE/1-tridiagonal-matrix/build/CMakeFiles/rebuild_cache.dir
-/home/aobaks/SLAE/1-tridiagonal-matrix/build/src/CMakeFiles/tridiagonal_solver.dir
-/home/aobaks/SLAE/1-tridiagonal-matrix/build/src/CMakeFiles/edit_cache.dir
-/home/aobaks/SLAE/1-tridiagonal-matrix/build/src/CMakeFiles/rebuild_cache.dir
-/home/aobaks/SLAE/1-tridiagonal-matrix/build/tests/CMakeFiles/TridiagonalSolverTest.dir
-/home/aobaks/SLAE/1-tridiagonal-matrix/build/tests/CMakeFiles/edit_cache.dir
-/home/aobaks/SLAE/1-tridiagonal-matrix/build/tests/CMakeFiles/rebuild_cache.dir
