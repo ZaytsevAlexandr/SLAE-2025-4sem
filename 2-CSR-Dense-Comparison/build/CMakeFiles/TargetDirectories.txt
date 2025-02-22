@@ -1,0 +1,3 @@
+/home/aobaks/SLAE/2-matrix-timecomparison/build/CMakeFiles/matrix_operations.dir
+/home/aobaks/SLAE/2-matrix-timecomparison/build/CMakeFiles/edit_cache.dir
+/home/aobaks/SLAE/2-matrix-timecomparison/build/CMakeFiles/rebuild_cache.dir
