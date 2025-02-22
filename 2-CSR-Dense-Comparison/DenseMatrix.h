@@ -18,7 +18,6 @@ public:
     size_t getRows() const;
     size_t getCols() const;
 
-    // Операции
     DenseMatrix operator+(const DenseMatrix& other) const;
     std::vector<double> operator*(const std::vector<double>& vec) const;
 };
