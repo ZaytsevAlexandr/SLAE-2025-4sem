@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/matrix_operations.dir/main.cpp.o CMakeFiles/matrix_operations.dir/DenseMatrix.cpp.o CMakeFiles/matrix_operations.dir/CSRMatrix.cpp.o CMakeFiles/matrix_operations.dir/benchmark.cpp.o -o matrix_operations 
